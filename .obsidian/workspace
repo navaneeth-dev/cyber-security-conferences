@@ -11,9 +11,23 @@
           "state": {
             "file": "README.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "1bc089527cc275d8"
+      },
+      {
+        "id": "b65c16f5df07f489",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "1bc089527cc275d8"
       }
     ],
     "direction": "vertical"
@@ -128,6 +142,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91afed190076a774",
+  "active": "b65c16f5df07f489",
   "lastOpenFiles": []
 }

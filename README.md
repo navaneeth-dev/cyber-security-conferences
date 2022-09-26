@@ -1,6 +1,4 @@
-# Security Conferences in India
-
-List of Security Conferences in India
+List of Cyber Security conferences around the world.
 
 ## India
 
@@ -10,3 +8,9 @@ List of Security Conferences in India
 | c0c0n - Kochi      | 21st Sep |             |
 | Bsides - Delhi     | 11 Nov   |             |
 | Bsides - Ahemdabad | 1 Oct    |             |
+
+## Asia
+
+| Name and Location                 | Date   | Promo Video |
+| --------------------------------- | ------ | ----------- |
+| Blackhat - Middle East and Africa | 15 Nov | https://youtu.be/J-XZPkHQ2us |
