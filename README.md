@@ -14,3 +14,4 @@ List of Cyber Security conferences around the world.
 | Name                              | Date   | Location                                     | Promo Video                  |
 | --------------------------------- | ------ | -------------------------------------------- | ---------------------------- |
 | Blackhat - Middle East and Africa | 15 Nov | RIYADH FRONT EXHIBITION CENTRE, SAUDI ARABIA | https://youtu.be/J-XZPkHQ2us |
+| Blackhat - Asia                   | 9 May  | Marina Bay Sands, Singapore                  |                              |
