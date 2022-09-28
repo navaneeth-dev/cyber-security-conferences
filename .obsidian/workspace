@@ -13,21 +13,7 @@
             "mode": "source",
             "source": true
           }
-        },
-        "group": "1bc089527cc275d8"
-      },
-      {
-        "id": "b65c16f5df07f489",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "1bc089527cc275d8"
+        }
       }
     ],
     "direction": "vertical"
