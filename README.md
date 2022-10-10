@@ -21,4 +21,5 @@ List of Cyber Security conferences around the world.
 | Name          | Date  | Location                               | Promo Video                   |
 | ------------- | ----- | -------------------------------------- | ----------------------------- |
 | OffensiveCon  | 4 Feb | Mohrenstraße 30, 10117 Berlin, Germany | https://youtu.be/TIEWIEZEndA  |
-| BSides Munich | -     | -                                      | https://www.bsidesmunich.org/ | 
+| BSides Munich | -     | -                                      | https://www.bsidesmunich.org/ |
+| SteelCon      | -     |                                        |                               |
