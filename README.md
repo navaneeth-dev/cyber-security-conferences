@@ -18,8 +18,9 @@ List of Cyber Security conferences around the world.
 
 ## Europe
 
-| Name          | Date  | Location                               | Promo Video                   |
-| ------------- | ----- | -------------------------------------- | ----------------------------- |
-| OffensiveCon  | 4 Feb | Mohrenstraße 30, 10117 Berlin, Germany | https://youtu.be/TIEWIEZEndA  |
-| BSides Munich | -     | -                                      | https://www.bsidesmunich.org/ |
-| SteelCon      | -     | Sheffield, London, UK                  | https://twitter.com/steel_con |
+| Name          | Date   | Location                               | Promo Video                      |
+| ------------- | ------ | -------------------------------------- | -------------------------------- |
+| OffensiveCon  | 4 Feb  | Mohrenstraße 30, 10117 Berlin, Germany | https://youtu.be/TIEWIEZEndA     |
+| BSides Munich | -      | -                                      | https://www.bsidesmunich.org/    |
+| SteelCon      | -      | Sheffield, London, UK                  | https://twitter.com/steel_con    |
+| ROMHACK       | 23 Sep | -                                      | https://romhack.io/romhack-camp/ | 
