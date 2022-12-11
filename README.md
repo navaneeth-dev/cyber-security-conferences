@@ -8,6 +8,7 @@ List of Cyber Security conferences around the world.
 | c0c0n              | 21st Sep | Grand Hyatt Kochi, Kerla | https://india.c0c0n.org/2022/home |
 | Bsides - Delhi     | 11 Nov   | Vivanta Dwarka Delhi     | https://bsidesdelhi.in/           |
 | Bsides - Ahemdabad | 1 Oct    | Forum Club 07, Ahemdabad |                                   |
+| ICISS              | 16 Dec   | IITs                     | https://www.icissconf.org/        | 
 
 ## Asia
 
